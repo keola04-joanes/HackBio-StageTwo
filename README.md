@@ -291,7 +291,6 @@ The following annotated populations were identified:
 
 * * *
 
-## \*\*4. Healthy vs.
 
 ## 4\. Healthy vs. Infected State — Detailed Interpretation
 
